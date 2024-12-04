@@ -1,7 +1,7 @@
 <h1>📚Home Page da loja AluraBooks</h1>
 
 
-<h2Sobre⚡</h2>
+<h2>Sobre⚡</h2>
 <p>>Projeto utilizado nos cursos de HTML e CSS da Alura🚀</p>
 
 
