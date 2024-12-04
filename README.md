@@ -1,5 +1,8 @@
 <h1>📚Home Page da loja AluraBooks</h1>
-<h2>Projeto utilizado nos cursos de HTML e CSS da Alura🚀</h2>
+
+<h2Sobre⚡</h2>
+<p>>Projeto utilizado nos cursos de HTML e CSS da Alura🚀</p>
+
 ## 💻⚙️✅ Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge">
