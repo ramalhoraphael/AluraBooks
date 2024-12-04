@@ -5,7 +5,7 @@
 <p>>Projeto utilizado nos cursos de HTML e CSS da Alura🚀</p>
 
 
-## 💻⚙️✅ Tecnologias
+## 💻 Tecnologias
 
 
 <div>
