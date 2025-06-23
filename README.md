@@ -1,9 +1,14 @@
 <h1>📚Home Page da loja AluraBooks</h1>
 
 
-<h2>Sobre⚡</h2>
-<p>>Projeto utilizado nos cursos de HTML e CSS da Alura🚀</p>
 
+
+<h2>Sobre⚡</h2>
+<p>>Projeto utilizado nos cursos de HTML e CSS(responsividade) da Alura🚀</p>
+
+Link do Projeto: https://ramalhoraphael.github.io/AluraBooks/
+
+Link do Figma: https://www.figma.com/design/6PfwVTqMfiZ4Th3gZ9gUoQ/HTML-e-CSS--responsividade-com-mobile-first-%7C-AluraBooks--Community-?node-id=37-94&p=f&m=dev
 
 ## 💻 Tecnologias
 
